@@ -1,0 +1,18 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\amanv\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v20.17.0
+3 silly config load:file:C:\Users\amanv\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\amanv\Desktop\web devlopment\react jS\time-countdown-app\time-countdown-app\.npmrc
+5 silly config load:file:C:\Users\amanv\.npmrc
+6 silly config load:file:C:\Users\amanv\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm config list
+8 verbose argv "config" "list"
+9 verbose logfile logs-max:10 dir:C:\Users\amanv\Desktop\web devlopment\react jS\time-countdown-app\_logs\2024-11-28T10_23_48_318Z-
+10 verbose logfile C:\Users\amanv\Desktop\web devlopment\react jS\time-countdown-app\_logs\2024-11-28T10_23_48_318Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd C:\Users\amanv\Desktop\web devlopment\react jS\time-countdown-app\time-countdown-app
+13 verbose os Windows_NT 10.0.22631
+14 verbose node v20.17.0
+15 verbose npm  v10.9.0
+16 verbose exit 0
+17 info ok
